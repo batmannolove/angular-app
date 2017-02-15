@@ -44,6 +44,8 @@ You need to install Node.js and then the development tools. Node.js comes with a
     ```
 
 (Note that you may need to uninstall grunt 0.3 globally before installing grunt-cli)
+npm uninstall -g grunt
+http://gruntjs.com/upgrading-from-0.3-to-0.4#grunt-0.3-notes
 
 ### Get the Code
 
